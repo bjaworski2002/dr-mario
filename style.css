@@ -1,0 +1,219 @@
+header{
+    /*background-color: blue;*/
+    height: 100px;
+}
+nav{
+    /*background-color: rgb(133, 46, 214);*/
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: right;
+}
+#bg{
+    position: absolute;
+    top: 0px;
+    width: 1280px;
+    height: 768px;
+    background-image: url("img/pf.png");
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    margin: 1px white;
+}
+#cont{
+    position: absolute;
+    left: 552px;
+    top: 64px;
+    width: 256px;
+    height: 620px;
+    /*background-color: green;*/
+}
+#next{
+    position: absolute;
+    top: 146px;
+    left: 960px;
+    width: 64px;
+    height: 32px;
+}
+.Block{
+    float: left;
+    width: 32px;
+    height: 32px;
+    /* background-color: white; */
+}
+.blueBlock{
+    float: left;
+    width: 32px;
+    height: 32px;
+    background-image: url("img/bl_dot.png");
+    background-size: 100% 100%;
+}
+.brownBlock{
+    float: left;
+    width: 32px;
+    height: 32px;
+    background-image: url("img/br_dot.png");
+    background-size: 100% 100%;
+}
+.yellowBlock{
+    float: left;
+    width: 32px;
+    height: 32px;
+    background-image: url("img/yl_dot.png");
+    background-size: 100% 100%;
+}
+
+.blueVirus{
+    float: left;
+    width: 32px;
+    height: 32px;
+    background-image: url("img/covid_blue.png");
+    background-size: 100% 100%;
+}
+.brownVirus{
+    float: left;
+    width: 32px;
+    height: 32px;
+    background-image: url("img/covid_brown.png");
+    background-size: 100% 100%;
+}
+.yellowVirus{
+    float: left;
+    width: 32px;
+    height: 32px;
+    background-image: url("img/covid_yellow.png");
+    background-size: 100% 100%;
+}
+
+.blueUp{
+    float: left;
+    width: 32px;
+    height: 32px;
+    background-image: url("img/bl_up.png");
+    background-size: 100% 100%;
+}
+.brownUp{
+    float: left;
+    width: 32px;
+    height: 32px;
+    background-image: url("img/br_up.png");
+    background-size: 100% 100%;
+}
+.yellowUp{
+    float: left;
+    width: 32px;
+    height: 32px;
+    background-image: url("img/yl_up.png");
+    background-size: 100% 100%;
+}
+
+.blueDown{
+    float: left;
+    width: 32px;
+    height: 32px;
+    background-image: url("img/bl_down.png");
+    background-size: 100% 100%;
+}
+.brownDown{
+    float: left;
+    width: 32px;
+    height: 32px;
+    background-image: url("img/br_down.png");
+    background-size: 100% 100%;
+}
+.yellowDown{
+    float: left;
+    width: 32px;
+    height: 32px;
+    background-image: url("img/yl_down.png");
+    background-size: 100% 100%;
+}
+
+.blueLeft{
+    float: left;
+    width: 32px;
+    height: 32px;
+    background-image: url("img/bl_left.png");
+    background-size: 100% 100%;
+}
+.brownLeft{
+    float: left;
+    width: 32px;
+    height: 32px;
+    background-image: url("img/br_left.png");
+    background-size: 100% 100%;
+}
+.yellowLeft{
+    float: left;
+    width: 32px;
+    height: 32px;
+    background-image: url("img/yl_left.png");
+    background-size: 100% 100%;
+}
+
+.blueRight{
+    float: left;
+    width: 32px;
+    height: 32px;
+    background-image: url("img/bl_right.png");
+    background-size: 100% 100%;
+}
+.brownRight{
+    float: left;
+    width: 32px;
+    height: 32px;
+    background-image: url("img/br_right.png");
+    background-size: 100% 100%;
+}
+.yellowRight{
+    float: left;
+    width: 32px;
+    height: 32px;
+    background-image: url("img/yl_right.png");
+    background-size: 100% 100%;
+}
+
+.blueO{
+    float: left;
+    width: 32px;
+    height: 32px;
+    background-image: url("img/bl_o.png");
+    background-size: 100% 100%;
+}
+.brownO{
+    float: left;
+    width: 32px;
+    height: 32px;
+    background-image: url("img/br_o.png");
+    background-size: 100% 100%;
+}
+.yellowO{
+    float: left;
+    width: 32px;
+    height: 32px;
+    background-image: url("img/yl_o.png");
+    background-size: 100% 100%;
+}
+
+.blueX{
+    float: left;
+    width: 32px;
+    height: 32px;
+    background-image: url("img/bl_x.png");
+    background-size: 100% 100%;
+}
+.brownX{
+    float: left;
+    width: 32px;
+    height: 32px;
+    background-image: url("img/br_x.png");
+    background-size: 100% 100%;
+}
+.yellowX{
+    float: left;
+    width: 32px;
+    height: 32px;
+    background-image: url("img/yl_x.png");
+    background-size: 100% 100%;
+}
